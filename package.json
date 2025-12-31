@@ -1,5 +1,5 @@
 {
-  "name": "sample",
+  "name": "unified-inbox-filter-plugin",
   "main": "./lib/main",
   "version": "0.1.0",
   "repository": {
